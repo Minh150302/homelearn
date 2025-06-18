@@ -18,7 +18,7 @@ Welcome! This repository documents my self-study journey with the **Arduino UNO*
 
 ## 💻 Software Requirements
 
-- [Arduino IDE 1.6.4+](https://www.arduino.cc/en/software)
+- [Arduino IDE 2.3.6](https://www.arduino.cc/en/software)
 
 ---
 
