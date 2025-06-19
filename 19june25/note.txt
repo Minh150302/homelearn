@@ -8,3 +8,15 @@ Temperture calculate: (resrearch that calculation)
 
 Note:
 (resrearch that calculation)
+
+test sound sensor, humid-temperature sensor and water sensor
+
+sound sensor: https://www.dientudat.com/mach-cam-bien-am-thanh-ky-037
+
+Today try,
+error :
+	sound detect - high (analog ~ 758)
+	
+reason: 
+- vấn đề về thiết bị - nhiễm điện
+- có thể code chưa chính xác
